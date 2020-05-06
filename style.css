@@ -12,6 +12,7 @@ header {
 	margin: 0;
 	display: block;
 	width: 100%;
+	min-width: 1264px;
 	height: 64px;
 }
 
@@ -35,6 +36,8 @@ header {
 	height: 64px;
 	display: inline-block;
 	font-size: 50px;
+	color: #069;
+	font-family: sans-serif;
 }
 
 #header-sec-3 {
@@ -58,10 +61,11 @@ header {
 	height: 64px;
 	font-size: 50px;
 	padding: 5px;
+	font-family: serif;
 }
 
 #header-sec-3 ul li a:hover {
-	background-image: linear-gradient(to bottom, #550, #AAA);
+	background-image: linear-gradient(to bottom, #DD0, #FFF);
 }
 
 header * {
@@ -75,8 +79,10 @@ main {
 	margin-bottom: 0;
 	margin-left: auto;
 	margin-right: auto;
-	min-width: 30px;
+	min-width: 1000px;
 	background-color: #FFF;
+	font-family: serif;
+	display: block;
 }
 
 #padding-main {
@@ -87,25 +93,54 @@ main {
 
 h1 {
 	margin: 0;
+	font-family: sans-serif;
 }
 
 footer {
 	margin: 0;
 	background-color: #AAA;
 	width: 85%;
-	min-width: 30px;
+	min-width: 1000px;
 	margin-left: auto;
 	margin-right: auto;
+	display: block;
 }
 
 .footer-sec {
 	width: 24%;
 	display: inline-block;
 	padding: 16px;
+	text-align: center;
+	vertical-align: top;
+	font-family: sans-serif;
+}
+
+.footer-sec * {
+	margin: 0;
+}
+
+.footer-sec .strong {
+	font-weight: bold;
+}
+
+.footer-sec p {
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+.footer-sec img {
+	padding-bottom: 15px;
+	padding-top: 3px;
+	padding-left: 3px;
 }
 
 .footer-sec ul {
 	list-style-type: none;
+	padding: 0;
+}
+
+.footer-sec ul li {
+	padding-bottom: 3px;
 }
 
 .footer-sec a {
@@ -113,11 +148,21 @@ footer {
 	color: #FFF;
 }
 
+.footer-sec a:hover {
+	text-decoration: underline;
+}
+
+.footer-sec a img:hover {
+	width: 35px;
+	padding-top: 0px;
+	padding-left: 0px;
+}
+
 #social li {
 	display: inline;
 }
 
 #social li a {
-	width: 5px;
-	height: 5px;
+	width: 32px;
+	height: 32px;
 }
