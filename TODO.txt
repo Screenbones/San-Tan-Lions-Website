@@ -1,0 +1,12 @@
+1) Learn Javascript Basics
+2) Create Javascript Code to pull post titles from Blogger
+3) Add content to Index (+favicon)
+4) Add more media links (Podcast, Store, Documents)
+5) Create Volunteer page with full content plus a "mini-menu" for tertiary/related pages
+6) Create About Us and Calendar with similar principals (Embed Google Calendar like normal)
+7) Build News Page using full Javascript to pull blog content
+8) Create post content pages
+9) Word on Tertiary pages (for Volunteer, About Us, Calendar, and then News)
+10) Tinker with website design for a more modern look and feel
+11) Add a font for the club's name
+12) Show off to Lions for opinions

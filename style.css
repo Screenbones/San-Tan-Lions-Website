@@ -45,6 +45,10 @@ header {
 	float: right;
 }
 
+#header-sec-3 nav {
+	
+}
+
 #header-sec-3 ul {
 	list-style-type: none;
 }
@@ -91,8 +95,27 @@ main {
 	height: 5px;
 }
 
-h1 {
+#breadcrumb ul {
 	margin: 0;
+	padding: 0;
+	list-style-type: none;
+}
+
+#breadcrumb ul li:not(:first-of-type):before {
+	content: "> ";
+	color: #AAA;
+}
+
+#breadcrumb ul li {
+	display: inline;
+}
+
+#breadcrumb ul li a {
+	text-decoration: none;
+	color: #AAA;
+}
+
+h1 {
 	font-family: sans-serif;
 }
 
