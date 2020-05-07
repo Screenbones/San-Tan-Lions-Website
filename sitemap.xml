@@ -10,7 +10,7 @@
 	
 		<url>
 			<!-- /volunteer - Volunteer -->
-			<loc>https://www.santanlions.org/volunteer</loc>
+			<loc>https://www.santanlions.org/volunteer.html</loc>
 			<lastmod>2020-05-05</lastmod>
 			<changefreq>weekly</changefreq>
 			<priority>0.80</priority>
@@ -18,7 +18,7 @@
 		
 			<url>
 				<!-- /volunteer/minutes - Meeting Minutes -->
-				<loc>https://www.santanlions.org/volunteer/minutes</loc>
+				<loc>https://www.santanlions.org/minutes.html</loc>
 				<lastmod>2020-05-05</lastmod>
 				<changefreq>weekly</changefreq>
 				<priority>0.64</priority>
@@ -26,7 +26,7 @@
 			
 			<url>
 				<!-- /volunteer/past - Past Events -->
-				<loc>https://www.santanlions.org/volunteer/past</loc>
+				<loc>https://www.santanlions.org/oldevents.html</loc>
 				<lastmod>2020-05-05</lastmod>
 				<changefreq>monthly</changefreq>
 				<priority>0.64</priority>
@@ -34,7 +34,7 @@
 			
 		<url>
 			<!-- /news - News -->
-			<loc>https://www.santanlions.org/news</loc>
+			<loc>https://www.santanlions.org/news.html</loc>
 			<lastmod>2020-05-05</lastmod>
 			<changefreq>daily</changefreq>
 			<priority>0.80</priority>
@@ -42,7 +42,7 @@
 		
 			<url>
 				<!-- /news/vest - View from the Vest -->
-				<loc>https://www.santanlions.org/news/vest</loc>
+				<loc>https://www.santanlions.org/viewvest.html</loc>
 				<lastmod>2020-05-05</lastmod>
 				<changefreq>weekly</changefreq>
 				<priority>0.64</priority>
@@ -50,7 +50,7 @@
 			
 			<url>
 				<!-- /news/podcast - The STLC Podcast -->
-				<loc>https://www.santanlions.org/news/podcast</loc>
+				<loc>https://www.santanlions.org/podcast.html</loc>
 				<lastmod>2020-05-05</lastmod>
 				<changefreq>weekly</changefreq>
 				<priority>0.64</priority>
@@ -58,7 +58,7 @@
 			
 		<url>
 			<!-- /about - About Us-->
-			<loc>https://www.santanlions.org/about</loc>
+			<loc>https://www.santanlions.org/about.html</loc>
 			<lastmod>2020-05-05</lastmod>
 			<changefreq>yearly</changefreq>
 			<priority>0.80</priority>
@@ -66,7 +66,7 @@
 		
 			<url>
 				<!-- /about/meetus - Meet The Lions -->
-				<loc>https://www.santanlions.org/about/meetus</loc>
+				<loc>https://www.santanlions.org/meetus.html</loc>
 				<lastmod>2020-05-05</lastmod>
 				<changefreq>yearly</changefreq>
 				<priority>0.64</priority>
@@ -74,7 +74,7 @@
 			
 			<url>
 				<!-- /about/documents - Documents -->
-				<loc>https://www.santanlions.org/about/documents</loc>
+				<loc>https://www.santanlions.org/documents.html</loc>
 				<lastmod>2020-05-05</lastmod>
 				<changefreq>monthly</changefreq>
 				<priority>0.64</priority>
@@ -82,7 +82,7 @@
 			
 			<url>
 				<!-- /about/meetings - Meetings -->
-				<loc>https://www.santanlions.org/about/meetings</loc>
+				<loc>https://www.santanlions.org/meetings.html</loc>
 				<lastmod>2020-05-05</lastmod>
 				<changefreq>yearly</changefreq>
 				<priority>0.64</priority>
@@ -90,7 +90,7 @@
 			
 			<url>
 				<!-- /about/donate - Donate -->
-				<loc>https://www.santanlions.org/about/donate</loc>
+				<loc>https://www.santanlions.org/donate.html</loc>
 				<lastmod>2020-05-05</lastmod>
 				<changefreq>yearly</changefreq>
 				<priority>0.64</priority>
@@ -98,7 +98,7 @@
 			
 		<url>
 			<!-- /calendar - Calendar -->
-			<loc>https://www.santanlions.org/calendar</loc>
+			<loc>https://www.santanlions.org/calendar.html</loc>
 			<lastmod>2020-05-05</lastmod>
 			<changefreq>weekly</changefreq>
 			<priority>0.80</priority>

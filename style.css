@@ -28,10 +28,6 @@ header {
 	margin-left: 3px;
 }
 
-#header-sec-1:hover {
-	background-color: #AAA;
-}
-
 #header-sec-2 {
 	height: 64px;
 	display: inline-block;
@@ -40,9 +36,14 @@ header {
 	font-family: sans-serif;
 }
 
+#header-sec-2:hover {
+	color: #AA0;
+}
+
 #header-sec-3 {
 	height: 64px;
 	float: right;
+	display: block;
 }
 
 #header-sec-3 nav {
@@ -63,9 +64,11 @@ header {
 	text-decoration: none;
 	color: black;
 	height: 64px;
-	font-size: 50px;
+	font-size: 30px;
 	padding: 5px;
-	font-family: serif;
+	padding-right: 8px;
+	font-family: sans-serif;
+	padding-top: 12px;
 }
 
 #header-sec-3 ul li a:hover {
@@ -87,6 +90,15 @@ main {
 	background-color: #FFF;
 	font-family: serif;
 	display: block;
+}
+
+main a, main a:visited {
+	color: #AA0;
+	text-decoration: none;
+}
+
+main a:hover {
+	text-decoration: underline;
 }
 
 #padding-main {
@@ -173,6 +185,7 @@ footer {
 
 .footer-sec a:hover {
 	text-decoration: underline;
+	color: #FFFF00;
 }
 
 .footer-sec a img:hover {
@@ -188,4 +201,20 @@ footer {
 #social li a {
 	width: 32px;
 	height: 32px;
+}
+
+#acc-issues {
+	text-align: center;
+	color: #EEE;
+	font-family: sans-serif;
+}
+
+#acc-issues a {
+	color: #EEE;
+	text-decoration: none;
+}
+
+#acc-issues a:hover {
+	color: #FFFF00;
+	text-decoration: underline;
 }
